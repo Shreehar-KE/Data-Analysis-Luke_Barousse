@@ -6,7 +6,7 @@ The data sourced from [Luke Barousse's Python Course](https://lukebarousse.com/p
 
 # The Questions
 
-Below are the questions I want to answer in my project:
+Below are the questions that I want to answer in my project:
 
 1. What are the skills most in demand for the top 3 most popular data roles?
 2. How are in-demand skills trending for Data Analysts?
